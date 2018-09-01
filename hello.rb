@@ -8,6 +8,7 @@ class User
 
   def sayHi
     puts "hi! i am #{@name}"
+    puts "hi! i am #{@name}"
     sayPrivate
   end
   
